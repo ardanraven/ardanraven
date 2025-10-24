@@ -1,70 +1,50 @@
-Olá, eu sou Ardan Raven 👋
 
-E aí, tudo bem? Eu sou Ardan Raven, um desenvolvedor criativo apaixonado por transformar ideias complexas em realidade digital.
+
+<h2> Olá, eu sou Ardan Raven! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p>
+<em>Desenvolvedor criativo apaixonado por transformar ideias complexas em realidade digital.</em>
+
+
+
+
 
 Este perfil é meu playground principal, onde testo novas tecnologias e construo projetos para demonstrar minhas habilidades.
+</p>
 
-🔭 Atualmente focado em... Aplicações Web Interativas com React e Firebase
+<!-- Badges de Contato -->
 
-🌱 Estou aprendendo... Arquiteturas de software escaláveis e IA Generativa
+<p>
+<a href="https://www.google.com/search?q=http://triplicestudios.site/" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Portf%C3%B3lio-brightgreen%3Fstyle%3Dflat-square%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" alt="Portfólio Triplice Studios">
+</a>
+<a href="https://www.google.com/search?q=https://www.instagram.com/leo_machado_27" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/-leo_machado_27-purple%3Fstyle%3Dflat-square%26logo%3DInstagram%26logoColor%3Dwhite" alt="Instagram">
+</a>
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/SEU-USUARIO-AQUI" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/-LinkedIn-blue%3Fstyle%3Dflat-square%26logo%3DLinkedin%26logoColor%3Dwhite" alt="LinkedIn">
+</a>
+</p>
 
-🤝 Aberto a colaborações em... Projetos Open-Source criativos e desafiadores
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco mais sobre mim...
 
-📫 Contato: machado.leonardo.ctba@gmail.com
+const ardanRaven = {
+  contato: "[SEU MELHOR EMAIL AQUI]",
+  focoAtual: ["Aplicações Web Interativas", "React", "Firebase"],
+  aprendendo: ["Arquiteturas Escaláveis", "IA Generativa"],
+  linguagens: ["JavaScript (ES6+)", "TypeScript", "Python", "HTML5", "CSS3"],
+  ferramentas: {
+    frontend: ["React", "Next.js", "TailwindCSS", "Vite"],
+    backend: ["Node.js", "Firebase (Firestore & Auth)", "Express"],
+    database: ["Firestore", "PostgreSQL", "MongoDB"],
+    devOps: ["Vercel", "GCP", "Git", "Docker"]
+  }
+}
 
-🛠️ Habilidades & Ferramentas <img src="https://www.google.com/search?q=https://camo.githubusercontent.com/ad38c424479dba43b6ded15fecfde6b53cf9fcd6ff3dc7715d5bcb43f8bbefb8/68747470733a2f2f6d654469612e67697068792e636f6d2f6d654469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="35">
 
-Este é o meu arsenal de tecnologias favorito no momento.
-
-Linguagens: JavaScript (ES6+), Python, TypeScript, HTML5, CSS3
-
-Front-End: React, Next.js, TailwindCSS, Vite
-
-Back-End: Node.js, Firebase (Firestore & Auth), Express
-
-Bancos de Dados: Firestore, PostgreSQL, MongoDB
-
-DevOps/Cloud: Vercel, GCP, Docker (Básico)
-
-Ferramentas: Git, VS Code, Figma
-
-📂 Projetos em Destaque
-
-Aqui estão alguns dos projetos mais desafiadores que desenvolvi, demonstrando minha experiência em aplicações web modernas.
-
-Projeto
-
-Descrição
-
-Tecnologias Usadas
-
-App de Chat em Tempo Real
-
-Um chat multi-usuário com autenticação Google e armazenamento de mensagens em tempo real.
-
-React Firebase TailwindCSS
-
-Gerenciador de Tarefas (Kanban)
-
-Um app Kanban para organizar tarefas com drag-and-drop, similar ao Trello.
-
-React Firestore TailwindCSS
-
-Site Portfólio Dinâmico
-
-O próprio site triplicestudios, construído do zero com foco em design e performance.
-
-React Vite CSS
-
-🔗 Conecte-se Comigo
-
-Vamos trocar uma ideia!
-
-Portfólio | Instagram | LinkedIn
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Eu adoro me conectar com pessoas diferentes</b>, então se quiser dizer um <b>oi, ficarei feliz em te conhecer melhor!</b> :)</em>
 
 📊 Minhas Estatísticas no GitHub
-
-Aqui estão os dados automáticos do meu perfil ardanraven:
 
 <p align="center">
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dardanraven%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Estatísticas do GitHub de Ardan Raven" />
