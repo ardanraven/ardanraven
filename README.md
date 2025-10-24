@@ -83,12 +83,12 @@ DevOps, Cloud e Ferramentas:
 <img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" height="40" />   
 <img src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" alt="Jenkins" height="40" />   
 <img src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" alt="Terraform" height="40" />   
-<img src="https://user-images.githubusercontent.com/25181517/182534182-c510199a-7a4d-4084-96e3-e3db2251bbce.png" alt="Prometheus" height="40" /> ⋙  
+<img src="https://user-images.githubusercontent.com/25181517/182534182-c510199a-7a4d-4084-96e3-e3db2251bbce.png" alt="Prometheus" height="40" />   
 <img src="https://user-images.githubusercontent.com/25181517/182534075-4962068b-4407-46c2-ac67-ddcb86af30cc.png" alt="Grafana" height="40" />   
 <img src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png" alt="Webpack" height="40" />   
 <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="NPM" height="40" />   
-<img src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" alt="Yarn" height="40" /> &nb_s_p;
-<img src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Jest" height="40" />   
+<img src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" alt="Yarn" height="40" />   
+<img src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Jest" height="40" /> &Sss; 
 <img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" alt="Cypress" height="40" />
 <br />
 <br />
@@ -96,9 +96,13 @@ DevOps, Cloud e Ferramentas:
 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-<img height="180" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dardanraven%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Estatísticas do GitHub de Ardan Raven"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img height="180" src="https://www.google.com/url?sa=E&source=gmail&q=https://github-readme-stats.vercel.app/api?username=ardanraven%26show_icons=true%26theme=dracula%26include_all_commits=true%26count_private=true" alt="Estatísticas do GitHub de Ardan Raven"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
 <img height="180" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dardanraven%26layout%3Dcompact%26langs_count%3D7%26theme%3Ddracula" alt="Linguagens mais usadas por Ardan Raven"/>
-S</p>
+</a>
+</p>
 
 ☕ Vamos Conversar!
 
@@ -109,7 +113,7 @@ Estou sempre aberto a um bom bate-papo sobre tecnologia, IA ou novas ideias de p
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email">
 </a>
 &nbsp;
-<a href="httpsm://https://www.google.com/search?q=www.linkedin.com/in/SEU-LINKEDIN-AQUI/">
+
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
 </a>
 </p>
