@@ -96,6 +96,10 @@ DevOps, Cloud e Ferramentas:
 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
+
+![ardanraven's Stats](https://github-readme-stats.vercel.app/api?username=ardanraven&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![ardanraven's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ardanraven&theme=dracula&hide_border=true)
+  
 </p>
 
 ☕ Vamos Conversar!
