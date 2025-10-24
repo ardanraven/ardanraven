@@ -9,7 +9,7 @@ Este espaço é meu laboratório digital, onde experimento com o futuro da web e
 
 🎓 Formação de Destaque
 
-Minha jornada acadêmica é impulsionada pela excelência e pelo desafio constante. Encontrei na renomada série CS50 de Harvard a base ideal para minha carreira:
+Minha jornada acadêmica é impulsionada pela excelência e pelo desafio constante. Encontrei em Harvard a base ideal para minha carreira:
 
 💡 Harvard CS50x (Ciência da Computação):
 A fundação completa. Aqui, construí um entendimento profundo de lógica computacional, algoritmos, estruturas de dados e desenvolvimento web full-stack.
