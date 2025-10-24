@@ -22,40 +22,41 @@ Meu foco atual. Estou mergulhando nos algoritmos de machine learning e redes neu
 Estas são as ferramentas que eu domino e utilizo para dar vida às minhas ideias:
 
 Linguagens e Fundamentos:
-<br />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3">
-<br />
-<br />
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="25" />
+<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript" height="25" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-282C34%3Flogo%3Dpython%26logoColor%3D3776AB" alt="Python" height="25" />
+<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5" height="25" />
+<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3" height="25" />
+</p>
 
 Front-End e UI:
-<br />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-61DAFB%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dblack" alt="React">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Next.js-000000%3Fstyle%3Dfor-the-badge%26logo%3Dnextdotjs%26logoColor%3Dwhite" alt="Next.js">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/TailwindCSS-06B6D4%3Fstyle%3Dfor-the-badge%26logo%3Dtailwindcss%26logoColor%3Dwhite" alt="TailwindCSS">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Vite-646CFF%3Fstyle%3Dfor-the-badge%26logo%3Dvite%26logoColor%3Dwhite" alt="Vite">
-<br />
-<br />
+
+<p>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-282C34%3Flogo%3Dreact%26logoColor%3D61DAFB" alt="React" height="25" />
+<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js" height="25" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind%2520CSS-282C34%3Flogo%3Dtailwind-css%26logoColor%3D06B6D4" alt="Tailwind CSS" height="25" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Vite-282C34%3Flogo%3Dvite%26logoColor%3D646CFF" alt="Vite" height="25" />
+</p>
 
 Back-End e Bancos de Dados:
-<br />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite" alt="Node.js">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Firebase-FFCA28%3Fstyle%3Dfor-the-badge%26logo%3Dfirebase%26logoColor%3Dblack" alt="Firebase">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-4169E1%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="PostgreSQL">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-47A248%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite" alt="MongoDB">
-<br />
-<br />
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js" height="25" />
+<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase" height="25" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-282C34%3Flogo%3Dpostgresql%26logoColor%3D4169E1" alt="PostgreSQL" height="25" />
+<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB" height="25" />
+</p>
 
 DevOps e Ferramentas:
-<br />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git">
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Google_Cloud-4285F4%3Fstyle%3Dfor-the-badge%26logo%3Dgooglecloud%26logoColor%3Dwhite" alt="GCP">
-<br />
+
+<p>
+<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git" height="25" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Vercel-282C34%3Flogo%3Dvercel%26logoColor%3DFFFFFF" alt="Vercel" height="25" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-282C34%3Flogo%3Ddocker%26logoColor%3D2496ED" alt="Docker" height="25" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Google_Cloud-282C34%3Flogo%3Dgoogle-cloud%26logoColor%3D4285F4" alt="GCP" height="25" />
+</p>
 
 📊 Minhas Estatísticas no GitHub
 
